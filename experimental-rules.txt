@@ -1,0 +1,10 @@
+*cloudfront
+*doubleclick
+||nyanko-webview.ponosgames.com^$important
+||nyanko-auth.ponosgames.com^$important
+||google-analytics.com^$important
+||googletagmanager.com^$important
+||stats.g.doubleclick.net^$important
+@@||play.google.com^$important
+@@||play-lh.googleusercontent.com^$important
+@@||p62-quota.icloud.com^$important
