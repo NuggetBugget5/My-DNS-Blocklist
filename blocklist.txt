@@ -573,3 +573,10 @@ drive.com
 ||fmfmobile.fe.apple-dns.net^$important
 ||events.redditmedia.com^$important
 ||metrics.mzstatic.com^$important
+||plusungratefulinstruction.com^$important
+||interviewidiomantidote.com^$important
+||sso.canvaslms.com^$important
+||dyn.wg.spotify.com^$important
+||cdn1-smallimg.phncdn.com^$important
+||cds.s5x3j6q5.hwcdn.net^$important
+||newsletter-edge^$important
