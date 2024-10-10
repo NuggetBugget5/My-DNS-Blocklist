@@ -473,3 +473,5 @@ cdn-1302064167.file.myqcloud.com$important
 @@||c.tadst.com^$important
 @@||animixplay.st^$important
 @@||misc.scdn.co^$important
+@@||weatherkit.apple.com^$important
+@@||sc1.checkpoint.com^$important
