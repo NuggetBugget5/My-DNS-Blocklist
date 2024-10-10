@@ -405,9 +405,12 @@ drive.com
 ||qq.com^$important
 ||gcp.api.snapchat.com$important
 ||vungle.com^$important
-||sf-api-token-service.itunes.apple.com^$important ||completion.amazon.com^$important
+||sf-api-token-service.itunes.apple.com^$important 
+||completion.amazon.com^$important
 ||manage.devcenter.microsoft.com^$important
-||public.settings.family.microsoft.com^$important ||update.googleapis.com^$important ||geo.prod.do.dsp.mp.microsoft.com^$important
+||public.settings.family.microsoft.com^$important 
+||update.googleapis.com^$important 
+||geo.prod.do.dsp.mp.microsoft.com^$important
 ||fmipalservice.icloud.com^$important
 ||musicstatus.itunes.apple.com^$important
 ||firebaseinstallations.googleapis.com^$important
