@@ -583,3 +583,10 @@ drive.com
 ||cdn1-smallimg.phncdn.com^$important
 ||cds.s5x3j6q5.hwcdn.net^$important
 ||newsletter-edge^$important
+||static.brave.com$important
+||static1.brave.com$important
+||crlsets.brave.com$important
+||brave-core-ext.s3.brave.com$important
+||safebrowsing.brave.com$important
+||laptop-updates.brave.com$important
+||sync-v2.brave.com$important
