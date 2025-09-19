@@ -590,3 +590,5 @@ drive.com
 ||safebrowsing.brave.com$important
 ||laptop-updates.brave.com$important
 ||sync-v2.brave.com$important
+||egv4py1c-ios.mobile-messenger.intercom.com^$important
+||connectivity-check.ubuntu.com^$important
