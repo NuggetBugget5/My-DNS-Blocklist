@@ -118,12 +118,6 @@ https://raw.githubusercontent.com/BlackJack8/iOSAdblockList/master/Regular%20Hos
 Adguard Pro Blocklist:
 https://raw.githubusercontent.com/BlackJack8/iOSAdblockList/master/Hosts.txt
 
-YouTube Adblock List (Discontinued):
-https://raw.githubusercontent.com/anudeepND/youtubeadsblacklist/master/domainlist.txt
-
-Ad-Wars Blocklist:
-https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
-
 Extended Ads And Tracking Blocklist:
 https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
 
