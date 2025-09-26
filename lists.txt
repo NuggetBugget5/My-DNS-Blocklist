@@ -40,9 +40,6 @@ https://abp.oisd.nl/basic/
 The NoTracking Blocklist:
 https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt
 
-Energized Spark:
-https://block.energized.pro/spark/formats/filter
-
 Dan Pollok's list:
 https://someonewhocares.org/hosts/zero/hosts
 
