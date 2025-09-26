@@ -70,9 +70,6 @@ https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscrip
 IRN: PersianBlocker list:
 https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerHosts.txt
 
-ITA: Filtri-DNS:
-https://filtri-dns.ga/filtri.txt
-
 KOR: YousList:
 https://raw.githubusercontent.com/yous/YousList/master/hosts.txt
 
