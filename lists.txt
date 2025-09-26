@@ -100,9 +100,6 @@ https://blocklistproject.github.io/Lists/alt-version/ransomware-nl.txt
 NoTrack Malware:
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
 
-Digitalslide Latest:
-https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
-
 Abuse.ch:
 https://urlhaus.abuse.ch/downloads/hostfile/
 
