@@ -175,6 +175,8 @@ https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/ultimate.tx
 The NoTracking blocklist:
 https://adguardteam.github.io/HostlistsRegistry/assets/filter_32.txt
 
+Spotify Blocklist:
+https://raw.githubusercontent.com/luca1844/PiHole_Spotify_BlockADS/main/blocklist
 
 
 
