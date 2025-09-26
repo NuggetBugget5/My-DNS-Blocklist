@@ -112,15 +112,6 @@ https://blocklistproject.github.io/Lists/alt-version/phishing-nl.txt
 Phishing Army:
 https://phishing.army/download/phishing_army_blocklist_extended.txt
 
-DuckDuckGo tds blocklist:
-https://raw.githubusercontent.com/duckduckgo/tracker-blocklists/main/web/tds.json
-
-DuckDuckGo apple-tds blocklist:
-https://raw.githubusercontent.com/duckduckgo/tracker-blocklists/main/web/apple-tds.json
-
-DuckDuckGo android app blocklist:
-https://raw.githubusercontent.com/duckduckgo/tracker-blocklists/main/app/android-tds.json
-
 Futuremind Blocklist:
 https://raw.githubusercontent.com/BlackJack8/iOSAdblockList/master/Regular%20Hosts.txt
 
