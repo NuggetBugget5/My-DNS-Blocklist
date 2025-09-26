@@ -91,30 +91,6 @@ https://raw.githubusercontent.com/bkrucarci/turk-adlist/master/hosts
 VNM: ABPVN List:
 https://abpvn.com/android/abpvn.txt
 
-Energized Unified Blocklist:
-https://block.energized.pro/unified/formats/hosts
-
-Energized Porn Blocklist:
-https://block.energized.pro/porn/formats/hosts
-
-Energized Basic Blocklist:
-https://block.energized.pro/basic/formats/hosts
-
-Energized Blu Blocklist:
-https://block.energized.pro/blu/formats/hosts
-
-Energized Spark Blocklist:
-https://block.energized.pro/spark/formats/hosts
-
-Energized Extreme Extension:
-https://block.energized.pro/extensions/xtreme/formats/hosts
-
-Energized Porn Lite Extension:
-https://block.energized.pro/extensions/porn-lite/formats/hosts
-
-Energized Regional Extension:
-https://block.energized.pro/extensions/regional/formats/hosts
-
 Blocklist Project Malware:
 https://blocklistproject.github.io/Lists/alt-version/malware-nl.txt
 
