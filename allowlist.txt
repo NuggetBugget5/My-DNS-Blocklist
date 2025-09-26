@@ -518,3 +518,5 @@ cdn-1302064167.file.myqcloud.com$important
 @@||more.suse.com^$important
 @@||graphics.stanford.edu^$important
 @@||www.onepercent.club^$important
+@@||127.0.0.1^$important
+@@||localhost^$important
