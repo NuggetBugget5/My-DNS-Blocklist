@@ -172,6 +172,81 @@ https://adguardteam.github.io/HostlistsRegistry/assets/filter_34.txt
 HaGeZi Ultimate blocklist:
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/ultimate.txt
 
+HaGeZi's DNS Rebind Protection:
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_71.txt
+
+HaGeZi Vivo Tracking Blocklist:
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_65.txt
+
+HaGeZi OPPO & REALME Tracking Blocklist:
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_66.txt
+
+HaGeZi Apple Tracking Blocklist:
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_67.txt
+
+HaGeZi Anti-Piracy Blocklist:
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_46.txt
+
+HaGeZi URL Shortener Blocklist:
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_68.txt
+
+HaGeZi winoffice Tracking Blocklist:
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_68.txt
+
+HaGeZi Huawei Tracking Blocklist:
+https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/dnsmasq/native.huawei.txt
+
+HaGeZi TikTok Extended Tracking Blocklist:
+https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/dnsmasq/native.tiktok.extended.txt
+
+HaGeZi TikTok Tracking Blocklist:
+https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/dnsmasq/native.tiktok.txt
+
+HaGeZi Xiaomi Tracking Blocklist:
+https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/dnsmasq/native.xiaomi.txt
+
+HaGeZi Roku Tracking Blocklist:
+https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/dnsmasq/native.roku.txt
+
+HaGeZi lgwebos Tracking Blocklist:
+https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/dnsmasq/native.lgwebos.txt
+
+HaGeZi Amazon Tracking Blocklist:
+https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/dnsmasq/native.amazon.txt
+
+HaGeZi Threat Intelligence Feed:
+https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/dnsmasq/tif.txt
+
+HaGeZi Threat Intelligence Feed IPs:
+https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/dnsmasq/tif-ips.txt
+
+HaGeZi Hoster Blocklist:
+https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/dnsmasq/hoster.txt
+
+HaGeZi Dynamic DNS Blocklist:
+https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/dnsmasq/dyndns.txt
+
+HaGeZi Gambling Blocklist:
+https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/dnsmasq/gambling.txt
+
+HaGeZi Samsung Tracking Blocklist:
+https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/dnsmasq/native.samsung.txt
+
+HaGeZi NRD 35-29:
+https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nrd35-29.txt
+
+HaGeZi NRD 28-22:
+https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nrd28-22.txt
+
+HaGeZi NRD 21-15:
+https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nrd21-15.txt
+
+HaGeZi NRD 14-8:
+https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nrd14-8.txt
+
+HaGeZi NRD 7:
+https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nrd7.txt
+
 The NoTracking blocklist:
 https://adguardteam.github.io/HostlistsRegistry/assets/filter_32.txt
 
